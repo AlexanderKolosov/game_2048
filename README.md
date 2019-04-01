@@ -5,4 +5,4 @@ Buttons for operating the game:
 - 'Esc' for restarting the game
 - 'Z' for rolling back
 - 'R' for random move(random choose of direction, only)
-- 'A' for auto move(program looking for the best move). Not a strong strategy, but you could modify as you wish :)
+- 'A' for auto move(program looking for the best move). Not a strong strategy, but you could modify as you wish :))
